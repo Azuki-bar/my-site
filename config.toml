@@ -68,7 +68,7 @@ series = "series"
   [[menu.main]]
     identifier = "Link"
     name = "Link"
-    url = "link"
+    url = "/link/"
     weight = -90
 
 
