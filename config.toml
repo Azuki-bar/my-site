@@ -57,7 +57,7 @@ series = "series"
 
   [[menu.main]]
     identifier = "about"
-    name = "about"
+    name = "About"
     # pre = "<i class='fa fa-heart'></i>"
     url = "/about/"
     weight = 0
