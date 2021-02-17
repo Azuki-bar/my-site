@@ -3,7 +3,7 @@ title: "Linuxとwindowsの環境再構築に係るメモ"
 date: 2021-02-17T20:44:45+09:00
 draft: false
 # categories: ["技術系"]
-# toc: true
+toc: true
 ---
 
 ## Linux
