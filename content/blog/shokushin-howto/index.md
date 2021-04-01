@@ -137,6 +137,7 @@ OR 店頭でチェック！
 食神についての記事を書いたらツイッターで取り上げられました！
 
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">この記事知人から教えてくれた、実に的得た記事です、21生の皆さん是非見て欲しいです、食神のこと詳しく解説してます。<br>一つだけ間違えは営業時間は11時30分からです。<br><br>食神餃子王の解説記事 <a href="https://t.co/Jnst7gQDfk">https://t.co/Jnst7gQDfk</a></p>&mdash; 食神餃子王 (@shokujinjp) <a href="https://twitter.com/shokujinjp/status/1377475616614715395?ref_src=twsrc%5Etfw">April 1, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
 ## おわりに
 
 食神食べたくなってきた。
