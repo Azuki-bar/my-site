@@ -16,6 +16,7 @@ disqusShortname = ""
 
 DefaultContentLanguage = "jp"
 
+googleAnaltyics = "UA-194329348-1"
 # [languages]
 # config/_default/languages.toml
 #
