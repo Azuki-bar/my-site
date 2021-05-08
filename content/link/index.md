@@ -35,7 +35,7 @@ discord 上で動く LaTeX 形式で書かれた数式を画像として返す b
 
 電通大の謎サークルである工学研究部に所属している。
 
-### [Terry](http://terry.pages.gitlab.mma.club.uec.ac.jp/)
+### [Terry](http://mma.club.uec.ac.jp/~terry)
 
 MMA の部長属性を持つオタク。競技プログラミングとかやっている。
 人を集めてイベントを開催し、その主催とかやっている。つよい。
