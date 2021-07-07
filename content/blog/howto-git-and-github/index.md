@@ -8,7 +8,7 @@ draft: false
 
 ## きっかけ
 
-怖い人(Twitter:[@ybasviel](https://twitter.com/ybasviel))に git の使いかたを載せたページが欲しいといわれたので
+怖い人(Twitter:[@lnln_ch](https://twitter.com/lnln_ch))に git の使いかたを載せたページが欲しいといわれたので
 公開します。
 
 ## git の使いかた
