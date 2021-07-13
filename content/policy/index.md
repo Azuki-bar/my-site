@@ -8,6 +8,7 @@ draft: false
 本サイトではGoogle アナリティクスを使用しています。
 解析のためにCookie, モバイルデバイスの識別情報を使用しています。
 
-Google アナリティクスにおけるCookieの活用方法やプライバシーポリシーの詳細はGoogle アナリティクスのサイトをご覧ください。
+Google アナリティクスにおけるCookieの活用方法やプライバシーポリシーの詳細は
+Google アナリティクスのサイト(www.google.com/intl/ja/policies/privacy/partners/)をご覧ください。
 
-[ユーザーが Google パートナーのサイトやアプリを使用する際の Google によるデータ使用](www.google.com/intl/ja/policies/privacy/partners/ )
+
