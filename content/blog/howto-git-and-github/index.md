@@ -1,5 +1,5 @@
 ---
-title: "Git と Github の使いかた"
+title: "Git と GitHub の使いかた"
 date: 2021-02-03T22:50:42+09:00
 draft: false
 # categories: ["技術系"]
@@ -8,7 +8,7 @@ draft: false
 
 ## きっかけ
 
-怖い人(Twitter:[@ybasviel](https://twitter.com/ybasviel))に git の使いかたを載せたページが欲しいといわれたので
+怖い人(Twitter:[@lnln_ch](https://twitter.com/lnln_ch))に git の使いかたを載せたページが欲しいといわれたので
 公開します。
 
 ## git の使いかた
@@ -23,10 +23,10 @@ draft: false
 8. `git push`
 9. 4 から 8 を繰り返す。
 
-## github の使いかた
+## GitHub の使いかた
 
 1. issue を立てる。
-2. 進捗が生まれて上の 8 をしたら github のページ上で**プルリクエスト**を作成する。
+2. 進捗が生まれて上の 8 をしたら GitHub のページ上で**プルリクエスト**を作成する。
 3. レビューされるのを待つ。
 4. レビューしてみよう！（もし新しいやつが上っていたら様子を見てコメントしよう）
 5. レビューできたらマージをコミットしてみよう！
@@ -44,7 +44,7 @@ draft: false
 | commit -m メッセージ   | 変更履歴をメッセージを付けて記録する       |
 | checkout ブランチ名    | 指定したブランチに移動する                 |
 | checkout -b ブランチ名 | 指定したブランチを作成し移動する           |
-| push                   | パソコンで記録した変更履歴を github に送る |
-| pull                   | github に記録された変更履歴をもってくる    |
+| push                   | パソコンで記録した変更履歴を GitHub に送る |
+| pull                   | GitHub に記録された変更履歴をもってくる    |
 | stash                  | 変更履歴を一時退避させる                   |
 | stash pop              | 上で退避させた変更履歴を元に戻す           |
