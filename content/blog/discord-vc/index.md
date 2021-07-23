@@ -57,7 +57,7 @@ services:
     image: ghcr.io/azuki-bar/discord-vc-notify:latest
     environment:
       TOKEN: "YOUR TOKEN"
-      CHANNEL_ID: "NOTIFY CHANNEL ID"`
+      CHANNEL_ID: "NOTIFY CHANNEL ID"
 ```
 
 ## `systemd`で管理する
