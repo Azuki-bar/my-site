@@ -78,7 +78,7 @@ series = "series"
 [params]
 author = "あずきバー"
 twitter = "@azukibar_D"
-largeTwitterCard = false # set to true if you want to show a large twitter card image. The default is a small twitter card image
+largeTwitterCard = true # set to true if you want to show a large twitter card image. The default is a small twitter card image
 introDescription = "電気で通信する大学にいる学生のサイト。<br>詳しくは下のボタンでどうぞ。"
 # since = 2021
 
