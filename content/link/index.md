@@ -62,6 +62,17 @@ MMA と工研はバチバチです。（本当にバチバチだったら公言�
 
 先日の新歓ではお世話になりました。
 
+### [つまみネット](https://trpfrog.net)
+
+長くツイッターをやっている（2009年11月から）オタク。
+フォロワーに[曲](https://linkco.re/N4Z8hdvX)を作られたことがある。なんで？
+
+この人に歩くことを強いられている。
+
+マリオカート動画を心が疲れているときに見ると少し楽になる。ぜひ[どうぞ](https://twitter.com/search?q=%23MK8D%20from%3ATrpFrog&src=typed_query)。
+
+[ブログ](https://trpfrog.hateblo.jp/)もあるが、画像が大きいので見る人のデータ使用量を破壊している。
+
 ## 所属団体
 
 ### [電気通信大学工学研究部](https://www.koken.club.uec.ac.jp)
